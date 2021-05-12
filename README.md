@@ -2,7 +2,7 @@
 I'm a Full Stack Developer studying at Artevelde University of Applied Scienses. I'm currently working at Keppens Design & Communication as an intern.
 
 ## Current Projects
-> 🔧 [Tirehouse](https://github.com/Jaxxpected/Godefroy_Dashboard) - I'm currently building a dashboard for a Mercedes Benz garage that shows the capacity of their tires and personal data.
+> 🔧 [Godefroy Tirehouse](https://github.com/Jaxxpected/Godefroy_Dashboard) - I'm currently building a dashboard for a Mercedes Benz garage that shows the capacity of their tires and personal data.
 
 ## My Values
 🙌 Teamwork & Communication  
