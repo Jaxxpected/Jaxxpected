@@ -1,5 +1,5 @@
 # Hi there, I'm Alec 👋🏻
-I'm a Full Stack Developer studying at Artevelde University of Applied Scienses. I'm currently working at Keppens Design & Communication as an intern.
+I'm a Full Stack Developer studying at Artevelde University of Applied Scienses.
 
 ## Current Projects
 > 🔧 [Godefroy Tirehouse](https://github.com/Jaxxpected/Godefroy_Dashboard) - I'm currently building a dashboard for a Mercedes Benz garage that shows the capacity of their tires and personal data.
